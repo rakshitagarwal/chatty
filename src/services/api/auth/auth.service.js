@@ -1,4 +1,4 @@
-import axios from '@services/axios';
+import axios from '../../axios';
 
 class AuthService {
   async signUp(body) {
